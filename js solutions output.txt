@@ -1,0 +1,29 @@
+1. ATM Withdrawal System:
+   Transaction successful! Remaining balance: $700
+
+2. Online Shopping Discount & Free Shipping:
+   960
+
+3. Student Grading System:
+   B
+
+4. Smart Traffic Light System:
+   40
+
+5. Movie Ticket Pricing:
+   6.72
+
+6. Job Application Filter:
+   true
+
+7. E-commerce Coupon Redemption:
+   540
+
+8. Fitness Membership Plan:
+   Premium Plan ($50)
+
+9. Electricity Bill Calculation:
+   1100
+
+10. Flight Ticket Booking:
+   315
